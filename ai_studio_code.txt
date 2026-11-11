@@ -1,0 +1,15 @@
+{
+  "name": "St. Demiana Church",
+  "short_name": "StDemiana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#792a2a",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/6977f27ec8f0f152582f7c9b/a621195e-7455-4657-a5ef-f23fb4f9ad36/seventhgen-5.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
